@@ -72,11 +72,6 @@ curl -X POST http://localhost:8000/api/route \
   -d '{"start":"west","destination":"science","wheelchair":true,"max_slope_percent":6,"avoid_unpaved":false,"blocked_edges":[]}'
 ```
 
-## Limitations and next steps
-
-This project does not use OpenStreetMap/PostGIS or real wheelchair-user research. Future work could add imported map geometries, an audited route-data model, external geospatial storage, verified closures, and optional user testing with informed consent. Accessibility interfaces should be evaluated with real users before any real-world deployment.
-
-## Attribution and honesty
 
 ## License
 
