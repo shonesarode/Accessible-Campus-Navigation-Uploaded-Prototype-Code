@@ -2,7 +2,7 @@
 
 A **working full-stack learning project** exploring how walking routes can account for mobility needs. A FastAPI service runs an A* graph search with stair, slope, surface and simulated-closure constraints. A React/TypeScript interface visualizes the route on a fictional campus-style network.
 
-> **Important:** This is a new portfolio prototype, not a verified public transit or campus-accessibility service. The network is **entirely fictional**, not a map of UT Austin. Do not use it for real navigation, accessibility decisions, or emergency planning. Do not claim real users, partner organizations or prior deployment.
+
 
 ## What works
 
