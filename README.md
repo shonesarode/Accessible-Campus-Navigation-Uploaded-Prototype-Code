@@ -78,8 +78,6 @@ This project does not use OpenStreetMap/PostGIS or real wheelchair-user research
 
 ## Attribution and honesty
 
-Created as a fresh programming portfolio starter. This repository is not associated with Microsoft, UT Austin, HackTX, Findhelp, or any accessibility organization. Any metrics in a separate hypothetical résumé are **not** results of this implementation.
-
 ## License
 
 MIT (see `LICENSE`).
